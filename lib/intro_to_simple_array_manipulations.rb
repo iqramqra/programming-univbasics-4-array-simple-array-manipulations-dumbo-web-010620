@@ -25,7 +25,8 @@ def shift_with_args(array)
   p remove_first_two_items
 end
 
-def using_concat()
+def using_concat(a, array)
+  
 
 
 
