@@ -18,4 +18,7 @@ end
 
 def using_shift(array)
   array.shift
-end  
+end
+
+def shift_with_args(array)
+  remove_first_two_items = array.shift(2)
