@@ -22,3 +22,9 @@ end
 
 def shift_with_args(array)
   remove_first_two_items = array.shift(2)
+  p remove_first_two_items
+end
+
+
+
+
